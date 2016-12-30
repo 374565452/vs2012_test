@@ -1,1 +1,2 @@
 D:\vs_git\test.git.demo\test.git.demo\bin\Debug\test.git.demo.exe.config
+D:\vs_git\git.clone\vs2012_test\test.git.demo\bin\Debug\test.git.demo.exe.config
