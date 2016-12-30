@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test.git.demo", "test.git.demo\test.git.demo.csproj", "{C2EA0BEF-9104-4510-AB39-B96E4CBC4E46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test.git.lib", "test.git.lib\test.git.lib.csproj", "{102AF457-EC22-450E-82C6-AD0A2B79B4E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{C2EA0BEF-9104-4510-AB39-B96E4CBC4E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2EA0BEF-9104-4510-AB39-B96E4CBC4E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2EA0BEF-9104-4510-AB39-B96E4CBC4E46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{102AF457-EC22-450E-82C6-AD0A2B79B4E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102AF457-EC22-450E-82C6-AD0A2B79B4E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102AF457-EC22-450E-82C6-AD0A2B79B4E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102AF457-EC22-450E-82C6-AD0A2B79B4E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
